@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//niksw7.github.io/loan-enlighter/static/css/main.073c9b0a.css",
-    "main.js": "//niksw7.github.io/loan-enlighter/static/js/main.28233ea0.js",
-    "static/js/787.e76fa861.chunk.js": "//niksw7.github.io/loan-enlighter/static/js/787.e76fa861.chunk.js",
-    "static/media/logo.svg": "//niksw7.github.io/loan-enlighter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "//niksw7.github.io/loan-enlighter/index.html",
-    "main.073c9b0a.css.map": "//niksw7.github.io/loan-enlighter/static/css/main.073c9b0a.css.map",
-    "main.28233ea0.js.map": "//niksw7.github.io/loan-enlighter/static/js/main.28233ea0.js.map",
-    "787.e76fa861.chunk.js.map": "//niksw7.github.io/loan-enlighter/static/js/787.e76fa861.chunk.js.map"
+    "main.css": "/loan-enlighter/static/css/main.073c9b0a.css",
+    "main.js": "/loan-enlighter/static/js/main.37faff91.js",
+    "static/js/787.e76fa861.chunk.js": "/loan-enlighter/static/js/787.e76fa861.chunk.js",
+    "static/media/logo.svg": "/loan-enlighter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loan-enlighter/index.html",
+    "main.073c9b0a.css.map": "/loan-enlighter/static/css/main.073c9b0a.css.map",
+    "main.37faff91.js.map": "/loan-enlighter/static/js/main.37faff91.js.map",
+    "787.e76fa861.chunk.js.map": "/loan-enlighter/static/js/787.e76fa861.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.28233ea0.js"
+    "static/js/main.37faff91.js"
   ]
 }
