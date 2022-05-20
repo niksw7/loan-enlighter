@@ -1,2 +1,2 @@
-# loan-enlighter
-This will enlighten your loan breakups
+#Helpful resources:
+https://create-react-app.dev/docs/deployment/
